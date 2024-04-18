@@ -1,3 +1,3 @@
-# ejemplo mejorado de git!
+# ejemplo de git
 
 ejemplo git
